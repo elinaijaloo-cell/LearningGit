@@ -13,3 +13,6 @@ Name: *Elina Haundjodjo*
 
 
 ![eline](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGo079tNFXtPcLnBPtND7eoGyv1UpwIHji1eQQ46AQOsKk_UJbVKVhLvlDPRcAe9aNMknePPFQQtKgumoLE2mLPeyvzlB7qICOkqyiSgvH)
+
+
+![upload file](myplant.jpg)
